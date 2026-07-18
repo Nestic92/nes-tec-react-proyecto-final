@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cooler CPU Noctua NH-D15",
+    "precio": 180000,
+    "imagen": "/imagenes/noctua.jpeg",
+    "categoria": "cooler"
+  },
+  {
+    "id": 2,
+    "nombre": "Fuente Seasonic GX 850",
+    "precio": 220000,
+    "imagen": "/imagenes/seasonic850.jpg",
+    "categoria": "fuente"
+  },
+  {
+    "id": 3,
+    "nombre": "Fuente Corsair RM 750",
+    "precio": 190000,
+    "imagen": "/imagenes/corsair750.webp",
+    "categoria": "fuente"
+  },
+  {
+    "id": 4,
+    "nombre": "Gabinete Lian Li PC O11 Dynamic",
+    "precio": 250000,
+    "imagen": "/imagenes/lianli.webp",
+    "categoria": "gabinete"
+  },
+  {
+    "id": 5,
+    "nombre": "Gabinete NZXT H510 Elite",
+    "precio": 230000,
+    "imagen": "/imagenes/nzxt.jpg",
+    "categoria": "gabinete"
+  },
+  {
+    "id": 6,
+    "nombre": "Motherboard Asus ROG Strix B550-F WiFi",
+    "precio": 210000,
+    "imagen": "/imagenes/asusrog.jpg",
+    "categoria": "mother"
+  },
+  {
+    "id": 7,
+    "nombre": "Intel Core i7 13700K",
+    "precio": 450000,
+    "imagen": "/imagenes/i7.jpg",
+    "categoria": "cpu"
+  },
+  {
+    "id": 8,
+    "nombre": "Ryzen 7 5800X",
+    "precio": 300000,
+    "imagen": "/imagenes/ryzen7.jpg",
+    "categoria": "cpu"
+  },
+  {
+    "id": 9,
+    "nombre": "RAM Corsair Vengeance 32GB (2x16) 3200MHz",
+    "precio": 160000,
+    "imagen": "/imagenes/ram.jpeg",
+    "categoria": "ram"
+  },
+  {
+    "id": 10,
+    "nombre": "SSD Samsung 970 EVO Plus 1TB",
+    "precio": 140000,
+    "imagen": "/imagenes/ssd.jpg",
+    "categoria": "almacenamiento"
+  },
+  {
+    "id": 11,
+    "nombre": "AMD RX 7800 XT",
+    "precio": 600000,
+    "imagen": "/imagenes/rx7800.jpg",
+    "categoria": "gpu"
+  },
+  {
+    "id": 12,
+    "nombre": "NVIDIA RTX 4070 12GB",
+    "precio": 750000,
+    "imagen": "/imagenes/rtx4070.jpg",
+    "categoria": "gpu"
+  }
+]

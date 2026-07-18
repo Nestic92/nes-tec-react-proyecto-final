@@ -1,0 +1,12 @@
+- cooler cpu noctua nh D15
+- fuente de poder seasonic gx 850
+- fuente de poder corsair rm 750
+- gabinete lian li pc O11 dynamic
+- gabinete nzxt h5 10 elite
+- motherboard asus rog strix b550f wifi
+- procesador intel core i7 13700k
+- procesador ryzen 7 5800x
+- memoria ram ddr4 corsair vengeance 2x 16 gb cl 16 3200 mhz
+- ssd samsung 970 evo plus 1 tb
+- tarjeta grafica amd rx 7800 xt
+- tarjeta grafica nvidia geforce rtx 4070 12 gb gddr6 
